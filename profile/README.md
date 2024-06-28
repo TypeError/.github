@@ -4,11 +4,6 @@
 
 TypeError is a collaborative GitHub organization dedicated to advancing cybersecurity. Our projects focus on vulnerability management and application security, leveraging data science to create robust, scalable solutions.
 
-## Featured Projects
-
-- **[vuln-data-science](https://github.com/TypeError/vuln-data-science)**: Data science techniques for vulnerability management.
-- **[secure.py](https://github.com/TypeError/secure)**: Secure headers for Python web frameworks.
-
 ## Get Involved
 
 Join us to enhance cybersecurity:
